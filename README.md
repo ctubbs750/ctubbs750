@@ -12,4 +12,25 @@ href="mailto:ctubbs750@gmail.com" target="_blank"><img alt="Email" src="https://
 ## About
 
 Hi, I'm Colby!
-	
+
+</p>
+<h3> Languages:</h3>
+<p>
+<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/SQL-3776AB.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/></a>
+<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a>
+
+</p>
+<h3> Tools:</h3>
+<p>
+<a target="_blank"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/></a>
+<a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/></a>
+<a target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+<a target="_blank"><img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-13324B.svg?style=for-the-badge&logo=ChartMogul&logoColor=white"/></a>
+<a target="_blank"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+<a target="_blank"><img alt="scipy" src="https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white"/></a>
+</a> 
+<a target="_blank"><img alt="statsmodels" src="https://img.shields.io/badge/Statsmodels-3B5526.svg?style=for-the-badge&logo=SciPy&logoColor=white"/></a>
+</p>
+
+<details open>
+<summary> <h2>Table of contents</h2></summary>	
