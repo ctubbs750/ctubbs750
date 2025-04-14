@@ -33,4 +33,8 @@ Hi, I'm Colby!
 </p>
 
 <details open>
-<summary> <h2>Table of contents</h2></summary>	
+<summary> <h2>Projects & Publications</h2></summary>
+
+- **Publications**
+  	+ **2025-03 |** Identifying deleterious noncoding variation through gain and loss of CTCF binding activity. *The American Journal of Human Genetics*. ([Link](https://doi.org/10.1016/j.ajhg.2025.02.009))
+
