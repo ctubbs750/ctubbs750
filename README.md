@@ -1,5 +1,3 @@
-![Colby Tubbs](d)
-
 <p align="right"> <a 
 href="https://github.com/ctubbs750" target="_blank"><img alt="Github" 
 src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /></a> <a 
