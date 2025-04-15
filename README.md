@@ -32,13 +32,30 @@ Hi, I'm Colby!
 <a target="_blank"><img alt="statsmodels" src="https://img.shields.io/badge/Statsmodels-3B5526.svg?style=for-the-badge&logo=SciPy&logoColor=white"/></a>
 </p>
 
-<details open>
-<summary> <h2>Projects</h2></summary>
-	
-- **2025-03 |** (*In-progress*) CTCF binding site datbase 3.0
+<h2>Projects</h2></summary>
 
-<details open>
-<summary> <h2>Publications</h2></summary>
+- **2025-03 |** (*In-progress*) CTCF Binding Site database 3.0
+
+`Date:` Q1 2025
+`Repository - Annotations:` [[Link]](https://github.com/ctubbs750/cbs-db3-annotate)
+
+<p> 
+<blockquote> 
+<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a>
+<a target="_blank"><img alt="Bash" src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+
+
+`Description:` 
+
+> This project ....
+
+>`Skills:` 
+
+**Data Pipeline | Snakemake**	
+
+<h2>Publications</h2></summary>
 	
-- **2025-03 |** Identifying deleterious noncoding variation through gain and loss of CTCF binding activity. *The American Journal of Human Genetics*. ([Link](https://doi.org/10.1016/j.ajhg.2025.02.009))
+- **2025-03**
+	- **Tubbs, C.**, Benton, M. L., McArthur, E., Capra, J. A. & Ruderfer, D. M. Identifying deleterious noncoding variation through gain and loss of CTCF binding activity. *The American Journal of Human Genetics*.
+ ([Paper](https://doi.org/10.1016/j.ajhg.2025.02.009))
 
