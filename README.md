@@ -18,23 +18,39 @@ Hi, I'm Colby!
 </p>
 <h3> Languages:</h3>
 <p>
-<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/SQL-3776AB.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/></a>
-<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a>
+<a target="_blank"><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/></a>
+<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
+<a target="_blank"><img alt="Bash" src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</a>
 
 </p>
 <h3> Tools:</h3>
 <p>
-<a target="_blank"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/></a>
-<a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/></a>
-<a target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>
-<a target="_blank"><img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-13324B.svg?style=for-the-badge&logo=ChartMogul&logoColor=white"/></a>
-<a target="_blank"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
-<a target="_blank"><img alt="scipy" src="https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white"/></a>
+<a target="_blank"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+</a>
+<a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/>
+</a>
+<a target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+</a>
+<a target="_blank"><img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-13324B.svg?style=for-the-badge&logo=ChartMogul&logoColor=white"/>
+</a>
+<a target="_blank"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white"/>
+</a>
+<a target="_blank"><img alt="scipy" src="https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white"/>
+</a>
 </a> 
-<a target="_blank"><img alt="statsmodels" src="https://img.shields.io/badge/Statsmodels-3B5526.svg?style=for-the-badge&logo=SciPy&logoColor=white"/></a>
+<a target="_blank"><img alt="statsmodels" src="https://img.shields.io/badge/Statsmodels-3B5526.svg?style=for-the-badge&logo=SciPy&logoColor=white"/>
+</a>
+<a target="_blank"><img alt="Plotly Dash" src="https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
+</a>
+<a target="_blank"><img alt="Plotly Dash" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</a>
 </p>
 
-<h2>Projects</h2></summary>
+
+
+## Projects 
+<details open>
 
 - ***In-progress* |** CTCF Binding Site database 3.0
 
@@ -42,7 +58,7 @@ Hi, I'm Colby!
 <blockquote> 
 	
 `Date:` Q1 2025
-`Repository - Annotations:` [[Repo]](https://github.com/ctubbs750/cbs-db3-annotate)
+`Repository - Annotations:` [(GitHub)](https://github.com/ctubbs750/cbs-db3-annotate)
 	
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a>
 <a target="_blank"><img alt="Bash" src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
@@ -52,10 +68,11 @@ Hi, I'm Colby!
 
 > This project ....
 
->`Skills:` 
+`Skills:` 
 
-**Data Pipeline | Snakemake**	
+> **Data Pipeline | Snakemake**	
 
+</details>
 <h2>Publications</h2></summary>
 	
 - **2025-03**
