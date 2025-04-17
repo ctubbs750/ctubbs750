@@ -21,6 +21,7 @@ Hi, I'm Colby!
 <a target="_blank"><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/></a>
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
 <a target="_blank"><img alt="Bash" src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<a target="_blank"><img alt="Snakemake" src="https://img.shields.io/badge/snakemake-brightgreen.svg?style=flat"/>
 </a>
 
 </p>
@@ -79,3 +80,7 @@ Hi, I'm Colby!
 	- **Tubbs, C.**, Benton, M. L., McArthur, E., Capra, J. A. & Ruderfer, D. M. Identifying deleterious noncoding variation through gain and loss of CTCF binding activity. *The American Journal of Human Genetics*.
  ([Paper](https://doi.org/10.1016/j.ajhg.2025.02.009))
 
+</details>
+<h2>References</h2></summary>
+
+- Profile page structure inspired by Sam Taylor -> [GitHub](https://github.com/SamTaylor92)
